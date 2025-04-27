@@ -47,3 +47,105 @@
           title: "GET LAMP: The Text Adventure Documentary"
           length: 2 hours
           optional: true
+-
+  date: 2025-04-15
+  title: HW0 Due
+  type: homework
+- 
+  date: 2025-04-15
+  title: Search for Planning in Simulations
+  slides: search_planning_simulation.pdf
+  readings:
+        -
+          title: Intro to STRIPS
+          url: https://www.primaryobjects.com/2015/11/06/artificial-intelligence-planning-with-strips-a-gentle-introduction/
+          authors: Kory Becker
+        -
+          title: AIMA Chapter 11
+          url: https://aima.cs.berkeley.edu/newchap11.pdf
+          authors: Stuart Russell and Peter Norvig
+        -
+          title: RL Book Chapter 8.1, 8.9-8.11
+          url: http://incompleteideas.net/book/RLbook2020.pdf
+          authors: Rich Sutton and Andrew Barto
+-
+  date: 2025-04-17
+  title: Finalize Project Groups
+  type: deadline
+-
+  date: 2025-04-17
+  title: Classical Control, Pre-Deep Learning
+  slides: classical_control.pdf
+  readings:
+        -
+          title: RL Book Chapter 4, 5
+          url: http://incompleteideas.net/book/RLbook2020.pdf
+          authors: Rich Sutton and Andrew Barto
+-
+  date: 2025-04-22
+  title: Deep Reinforcement Learning, Pre-LLMs
+  slides: deep_rl_pre_llms.pdf
+  readings:
+        -
+          title: RL Book Chapter 6.1-6.5
+          url: http://incompleteideas.net/book/RLbook2020.pdf
+          authors: Rich Sutton and Andrew Barto
+        -
+          title: Playing Atari with Deep Reinforcement Learning
+          url: https://arxiv.org/abs/1312.5602
+          authors: Minh et al. 2013
+        -
+          title: (Nature version) Human-level control through deep reinforcement learning
+          url: https://daiwk.github.io/assets/dqn.pdf
+          authors: Minh et al. 2015
+          optional: true
+-
+  date: 2025-04-24
+  title: Project Pitches I
+-
+  date: 2025-04-29
+  title: Project Pitches II
+-
+  date: 2025-04-29
+  title: HW1 Due
+  type: homework
+-
+  date: 2025-05-01
+  title: Project Pitch Slide Decks Due
+  type: deadline
+-
+  date: 2025-05-01
+  title: Reinforcement Learning and Search Combined
+  slides:
+  readings:
+        -
+          title: (Alpha Zero) Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
+          url: https://arxiv.org/abs/1712.01815
+          authors: Silver et al. 2017
+        -
+          title: How to Avoid Being Eaten by a Grue Structured Exploration Strategies for Textual Worlds
+          url: https://arxiv.org/abs/2006.07409
+          authors: Ammanabrolu et al. 2019
+          optional: True
+        -
+          title: (Mu Zero) Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model
+          url: https://arxiv.org/abs/1911.08265
+          authors: Schrittwieser et al. 2019
+          optional: True
+-
+  date: 2025-05-06
+  title: Attention and Language Modeling
+  slides:
+  readings:
+        -
+          title: Attention is All You Need
+          url: https://arxiv.org/abs/1706.03762
+          authors: Vaswani et al.
+        -
+          title: The Illustrated Transformer
+          url: https://jalammar.github.io/illustrated-transformer/
+          authors: Jay Alammar
+        -
+          title: Language Models are Few Shot Learners
+          url: https://arxiv.org/abs/2005.14165
+          authors: Brown et al.
