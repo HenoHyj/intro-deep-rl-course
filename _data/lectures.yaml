@@ -116,7 +116,7 @@
 -
   date: 2025-05-01
   title: Reinforcement Learning and Search Combined
-  slides:
+  slides: RL_and_Search_Combined.pdf
   readings:
         -
           title: (Alpha Zero) Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
